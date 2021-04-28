@@ -1,0 +1,152 @@
+
+    .p1{
+      font-size: large;
+      width: 200px; ;
+      height:200px ;
+      font-family: 'Times New Roman', Times, serif;
+      
+      }
+  
+      .p2{
+      font-size: large;
+      padding-left: 0.7cm;
+      padding-right: 24cm;
+      font-family:'Times New Roman', Times, serif;
+      }
+       
+      
+      .p3{
+      font-size: large;
+      width: 200px;
+      height: 200px ;
+      
+      }
+     
+      .p4{
+      font-size: large;
+      width: 200px;
+      height: 200px ;
+      padding-left:0.7cm;
+      
+       
+      }
+      
+      .p5{
+      font-size: large;
+      width: 200px;
+      height: 200px ;
+      padding-left:0.7cm
+          
+      }
+  
+   .p6{
+     
+    width: 200px;
+    height: 200px ;
+    padding:0.5cm;
+    background-color: dodgerblue;
+    border-radius: 25%;
+    margin-left: 0.5cm;
+  
+  
+      
+      }
+  
+  
+      
+  
+  
+  .search-box {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform:translate(-50%,-50%);
+      height: 40px;
+      border-radius:40px;
+      padding: 10px;
+      width: 480px;
+      border:ridge;
+      border-color:whitesmoke;
+      box-shadow: whitesmoke;
+      
+  
+   }
+  
+    .search-btn {
+    color:black;
+    float: left;
+    width: 20px;
+    height: 40px;
+    border-radius:50% ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+   }
+  
+  
+      
+  .p7{
+  
+    
+      padding: 10px;
+      width: 240px;
+      border:ridge;
+      border-color:whitesmoke;
+      background-color: gainsboro;
+      padding-left: 0.5cm;
+      margin-left: 3cm;
+      box-shadow: whitesmoke;
+      
+  
+   }
+      
+  
+   .p8{
+    
+      padding: 10px;
+      width: 300px;
+      border:ridge;
+      border-color:whitesmoke;
+      background-color: gainsboro;
+      margin-left:0.7cm;
+      box-shadow: whitesmoke;
+     
+  
+   }
+  
+  
+   .p9{ 
+  
+      width: 1350px;
+      margin-top :26%;
+      font-size:large;
+      font-family:'Times New Roman', Times, serif;
+      margin-left: 0cm;
+      float: left;
+      padding-top: 0.3cm;
+      padding-bottom: 0.3cm;
+     
+  
+  
+   }
+  
+     
+      
+      
+     
+      
+      
+      
+      
+    
+  
+     
+  
+  
+  
+  
+   
+  
+   
+  
