@@ -1,1 +1,1 @@
-[google web sayfa tasarım](http://127.0.0.1:5500/index.html)
+[google web sayfa tasarımı](http://127.0.0.1:5500/index.html)
