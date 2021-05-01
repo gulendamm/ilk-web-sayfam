@@ -2,4 +2,4 @@
 
 
 
-[google web tasarımı](file:///C:/Users/Asus/OneDrive/Belgeler/Yeni%20klas%C3%B6r/ilk-web-sayfam/index.html)
+[google web tasarımı](https://github.com/gulendamm/ilk-web-sayfam.git)
