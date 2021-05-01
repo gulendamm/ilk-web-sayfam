@@ -2,4 +2,4 @@
 
 
 
-[google web tasarımı](http://127.0.0.1:5500/ilk-web-sayfam/index.html)
+[google web tasarımı](file:///C:/Users/Asus/OneDrive/Belgeler/Yeni%20klas%C3%B6r/ilk-web-sayfam/index.html)
